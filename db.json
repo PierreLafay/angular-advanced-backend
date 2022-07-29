@@ -3,6 +3,7 @@
     {
       "id": 1,
       "userId": 499,
+      "userIdentity": { "firstName": "Will", "lastName": "Alexander" },
       "title": "You know when grown-ups tell you 'everything's going to be fine' and you think they're probably lying to make you feel better?",
       "createdDate": "2020-08-17T12:56:35Z",
       "content": "I'm the Doctor. Well, they call me the Doctor. I don't know why. I call me the Doctor too. I still don't know why. Saving the world with meals on wheels. Did I mention we have comfy chairs? I'm the Doctor, I'm worse than everyone's aunt. *catches himself* And that is not how I'm introducing myself.",
@@ -36,6 +37,7 @@
     {
       "id": 2,
       "userId": 338,
+      "userIdentity": { "firstName": "Pierre", "lastName": "Lafay" },
       "title": "I hate yogurt. It's just stuff with bits in.",
       "createdDate": "2021-01-24T19:04:18Z",
       "imageUrl": "https://picsum.photos/600/401",
@@ -64,6 +66,7 @@
     {
       "id": 3,
       "userId": 947,
+      "userIdentity": { "firstName": "Bob", "lastName": "The Sponge" },
       "title": "Bow ties are cool!",
       "createdDate": "2020-03-14T14:55:03Z",
       "imageUrl": "https://picsum.photos/600/400",
@@ -86,6 +89,7 @@
     {
       "id": 4,
       "userId": 873,
+      "userIdentity": { "firstName": "Felix", "lastName": "The Cat" },
       "title": "Stop talking, brain thinking",
       "createdDate": "2020-07-22T00:51:35Z",
       "imageUrl": "https://picsum.photos/601/400",
@@ -114,6 +118,7 @@
     {
       "id": 5,
       "userId": 15,
+      "userIdentity": { "firstName": "Goupil", "lastName": "The Fox" },
       "title": "You hit me with a cricket bat",
       "createdDate": "2020-07-28T14:30:56Z",
       "content": "The way I see it, every life is a pile of good things and bad things.…hey.…the good things don't always soften the bad things; but vice-versa the bad things don't necessarily spoil the good things and make them unimportant.\n\nAw, you're all Mr. Grumpy Face today. You hit me with a cricket bat. I'm nobody's taxi service; I'm not gonna be there to catch you every time you feel like jumping out of a spaceship. You hate me; you want to kill me! Well, go on! Kill me! KILL ME!\n\nIt's art! A statement on modern society, 'Oh Ain't Modern Society Awful?'! No… It's a thing; it's like a plan, but with more greatness. Stop talking, brain thinking. Hush. Saving the world with meals on wheels.",
@@ -160,7 +165,7 @@
     {
       "personalInfo": {
         "firstName": "Will",
-        "lastName": "Alexadner"
+        "lastName": "Alexander"
       },
       "contactPreference": "email",
       "email": {
